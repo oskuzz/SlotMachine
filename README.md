@@ -1,0 +1,2 @@
+# SlotMachine
+Uhkapelaamista leikkirahalla :P
